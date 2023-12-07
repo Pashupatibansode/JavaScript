@@ -1,6 +1,6 @@
-let score = "33"    
+let score = "33";
 // String
-console.log(typeof(score));
+console.log(typeof score);
 console.log(typeof score);
 
 let valueInNumber = Number(score);
@@ -9,8 +9,7 @@ console.log(valueInNumber);
 // NaN=not a number
 // "33prq" =>NaN
 
-let IsLoggedIn = 1
-let booleanIsLoggedIn = Boolean(IsLoggedIn)
+let IsLoggedIn = 1;
+let booleanIsLoggedIn = Boolean(IsLoggedIn);
 console.log(booleanIsLoggedIn);
 // Boolean true=>1 false=>0
-
